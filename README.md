@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I am a second-year software engineering student at Western University<br>🔭 Always looking for something new to learn!<br>🌑 Let's grab coffee and chat!<br>
+👨‍💻 I am a third-year software engineering student at Western University<br>🔭 Always looking for something new to learn!<br>🌑 Let's grab coffee and chat!<br>
 
 
 ## 🌐 Socials:
